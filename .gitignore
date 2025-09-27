@@ -1,9 +1,7 @@
 # Gradle files
 .gradle/
 build/
-# Gradle wrapper binary
 gradle/wrapper/gradle-wrapper.jar
-
 # Local configuration file (sdk path, etc)
 local.properties
 
